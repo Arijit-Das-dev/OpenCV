@@ -41,19 +41,19 @@ This makes OpenCV a must-learn skill for anyone entering the AI field.
 
 As an aspiring AI / Machine Learning Engineer, **I want to build strong fundamentals in:**
 
-How computers view images (pixels, channels, histograms)
+1. How computers view images (pixels, channels, histograms)
 
-Preprocessing data for ML & DL models
+2. Preprocessing data for ML & DL models
 
-Feature extraction for intelligent applications
+3. Feature extraction for intelligent applications
 
-Building projects that involve real-world camera feeds & vision tasks
+4. Building projects that involve real-world camera feeds & vision tasks
 
 Mastering OpenCV helps me step into professional AI development — from simple visual tasks to advanced neural network integration.
 
 **_This repo will continuously grow with:_**
 
-✔ Image processing fundamentals
-✔ Feature detection techniques
-✔ Real-time camera projects
-✔ Mini Computer Vision applications
+=> Image processing fundamentals
+=> Feature detection techniques
+=> Real-time camera projects
+=> Mini Computer Vision applications
