@@ -2,7 +2,6 @@
 Learning OpenCV from Scratch — Code examples for image &amp; video processing
 
 **About This Repository — OpenCV & Computer Vision Journey**
-<u> </u>
 
 This repository is dedicated to learning and mastering Computer Vision using OpenCV, one of the most powerful and widely used libraries in the AI ecosystem. Here, I explore various fundamental and practical concepts — from image processing to real-time video analysis — through hands-on code examples and small projects.
 
