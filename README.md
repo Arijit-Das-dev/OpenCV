@@ -1,4 +1,4 @@
-# OpenCV
+# OpenCV [Open Computer Vision]
 Learning OpenCV from Scratch — Code examples for image &amp; video processing
 
 **About This Repository — OpenCV & Computer Vision Journey**
