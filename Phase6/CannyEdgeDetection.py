@@ -20,8 +20,11 @@ image = cv2.imread("C:\\Users\\abijit\\Downloads\\FlowerImage.jpg", cv2.IMREAD_G
 
 if image is not None:
 
-    edge = cv2.Canny(image, 50, 150)
-    cv2.imshow("image",edge)
+    resized_image = cv2.resize(image, (600, 600))
+
+    cv2.imshow("Image", resized_image)
+    edge = cv2.Canny(resized_image, 50, 150)
+    cv2.imshow("Image 2", edge)
     cv2.waitKey(0)
     cv2.destroyAllWindows()
 

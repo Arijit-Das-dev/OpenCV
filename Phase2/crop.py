@@ -1,7 +1,7 @@
 import cv2
 
 #load the image.
-image = cv2.imread("C:\\Users\\abijit\\Desktop\\BgImage.jpg")
+image = cv2.imread("C:\\Users\\abijit\\Downloads\\FlowerImage.jpg")
 
 #you can crop the actual image or you can crop the resize image also.
 
