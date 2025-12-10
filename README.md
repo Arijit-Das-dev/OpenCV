@@ -57,3 +57,7 @@ Mastering OpenCV helps me step into professional AI development — from simple 
 => Feature detection techniques
 => Real-time camera projects
 => Mini Computer Vision applications
+
+Advantage : 
+You can learn OpenCV by this repo.
+All chaptersb are devided into fregments, so that everyone can underdtand the topic properly.
