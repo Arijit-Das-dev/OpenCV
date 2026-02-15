@@ -32,3 +32,28 @@ The core Computer Vision library used in this repository.
 7. Contour detection
 8. Face detection (Haar Cascades)
 9. Feature detection
+
+## Learning Structure
+```
+opencv-learning/
+│
+├── 01_image_basics/
+├── 02_drawing_functions/
+├── 03_image_processing/
+├── 04_transformations/
+├── 05_contours/
+├── 06_color_analysis/
+├── 07_feature_detection/
+├── 08_video_processing/
+├── 09_face_detection/
+├── 10_projects/
+│
+├── assets/
+│   ├── images/
+│   ├── videos/
+│
+├── notebooks/
+├── requirements.txt
+└── README.md
+
+```
