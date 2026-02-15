@@ -68,3 +68,6 @@ A full-length tutorial that goes through OpenCV basics, image & video processing
 
 ### 3. OpenCV Full Beginner Tutorial (Python)  
 A detailed 3-hour video walkthrough covering core OpenCV concepts including image processing, edge detection, contours, and practical tasks — [Watch here](https://youtu.be/eDIj5LuIL4A) 📺
+
+### 📺 5. OpenCV Python Course – Basic to Advanced  
+A full-length OpenCV Python tutorial covering everything from installation, image/video handling, filtering, transformations, contours, and real-world detection tasks — [Watch here](https://youtu.be/TMqH2fYhxh0) 📺
