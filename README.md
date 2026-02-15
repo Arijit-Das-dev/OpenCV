@@ -74,3 +74,20 @@ A full-length OpenCV Python tutorial covering everything from installation, imag
 
 ###  6. Getting Started with OpenCV – Full Python Course  
 A comprehensive beginner-oriented OpenCV full course covering installation, image & video basics, thresholding, filters, annotations and practical fundamentals — [Watch here](https://youtu.be/P4Z8_qe2Cu0) 📺
+
+## ⚙ Ideal roadmap summary
+```
+OpenCV Basics
+   ↓
+Mini Projects
+   ↓
+Image Processing Theory
+   ↓
+Advanced OpenCV
+   ↓
+ML + OpenCV
+   ↓
+Deep Learning Vision
+   ↓
+Deployment + Portfolio
+```
