@@ -17,3 +17,18 @@ The primary programming language used for implementation.
 2. Strong AI/ML ecosystem
 3. Massive community support
 4. Fast prototyping for computer vision tasks
+
+## 👁 OpenCV (cv2)
+The core Computer Vision library used in this repository.
+
+## Used for:
+
+1. Image reading & writing
+2. Video capture & processing
+3. Drawing functions (shapes, text)
+4. Image transformations (resize, rotate, crop)
+5. Edge detection (Canny)
+6. Thresholding
+7. Contour detection
+8. Face detection (Haar Cascades)
+9. Feature detection
