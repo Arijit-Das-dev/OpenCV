@@ -1,3 +1,5 @@
+<p align="center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="40"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" height="40"/> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="40"/> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" height="40"/> <img src="https://img.shields.io/badge/Pillow-8CAAE6?style=for-the-badge" height="40"/> <img src="https://img.shields.io/badge/imutils-000000?style=for-the-badge" height="40"/> </p>
+
 # OpenCV [Open Computer Vision]
 Learning OpenCV from Scratch — Code examples for image &amp; video processing
 
