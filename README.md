@@ -65,3 +65,6 @@ Learn OpenCV from zero to advanced with this complete Python course covering eve
 
 ### 2. OpenCV Full Computer Vision Course (Python)  
 A full-length tutorial that goes through OpenCV basics, image & video processing, filtering, contours, and face detection — [Watch here](https://youtu.be/yQu_3e7MAr0) 📺
+
+### 3. OpenCV Full Beginner Tutorial (Python)  
+A detailed 3-hour video walkthrough covering core OpenCV concepts including image processing, edge detection, contours, and practical tasks — [Watch here](https://youtu.be/eDIj5LuIL4A) 📺
