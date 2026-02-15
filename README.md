@@ -62,3 +62,6 @@ opencv-learning/
 
 ### 1. OpenCV Full Course (freeCodeCamp.org)  
 Learn OpenCV from zero to advanced with this complete Python course covering everything from image basics to face recognition and deep vision models — [Watch here](https://youtu.be/oXlwWbU8l2o) 📺
+
+### 2. OpenCV Full Computer Vision Course (Python)  
+A full-length tutorial that goes through OpenCV basics, image & video processing, filtering, contours, and face detection — [Watch here](https://youtu.be/yQu_3e7MAr0) 📺
