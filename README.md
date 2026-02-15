@@ -57,3 +57,8 @@ opencv-learning/
 └── README.md
 
 ```
+
+## 📺 OpenCV Learning Videos
+
+### 1. OpenCV Full Course (freeCodeCamp.org)  
+Learn OpenCV from zero to advanced with this complete Python course covering everything from image basics to face recognition and deep vision models — [Watch here](https://youtu.be/oXlwWbU8l2o) 📺
